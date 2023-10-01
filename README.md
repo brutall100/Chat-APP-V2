@@ -7,8 +7,8 @@ This README provides an overview of a simple chat application that allows users 
 
 - [Features](#features)
 - [Getting Started](#getting-started)
+- [Installation](#nstallation)
 - [How It Works](#how-it-works)
-- [Dependencies](#dependencies)
 - [Authors](#authors)
 
 ## Features
@@ -24,9 +24,7 @@ Before running the application, ensure you have the following installed:
 
 Install all the necessary Node.js packages and dependencies for your Express.js application, including express, body-parser, mysql2, dotenv, and cors, you can use the following commands in your project directory:
 
-
-
-### Installation
+## Installation
 
 npm install express body-parser mysql2 dotenv cors
 
